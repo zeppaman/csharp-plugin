@@ -1,6 +1,7 @@
 This project is a show case to prove the possibility to employ a plugin system in asp.net core. It is developed to be a prototype for the plugin system used into [RawCMS the asp.net core extensible Headless CMS](https://github.com/arduosoft/RawCMS) and uses the [McMaster's Library](https://github.com/natemcmaster/DotNetCorePlugins).
 
 ## Project structure
+
 ![app architecture](https://github.com/zeppaman/csharp-plugin/raw/master/assets/csharp-plugin-diagram.png)
 
 ### Container
